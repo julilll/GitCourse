@@ -1,0 +1,144 @@
+    1  shutdown now
+    2  ls
+    3  ls -l
+    4  cd Desktop
+    5  sudo apt install geany
+    6  file Hello
+    7  file Hello.html
+    8  file Hello
+    9  cat Hello
+   10  file Hello
+   11  sudo apt install tilde
+   12  tilde Hello
+   13  ls
+   14  cat Hello
+   15  pwd
+   16  ls
+   17  tilde
+   18  cd playg
+   19  exit
+   20  ./try.sh 2 + 3
+   21  chmod +x try.sh
+   22  ./try.sh 2 + 3
+   23  /.try.sh 2 + 3
+   24  ./try.sh 2 + 3
+   25  cd ./bin
+   26  cd
+   27  cd bin
+   28  cd Desktop/playg
+   29  cd
+   30  cd bin
+   31  cd bin/
+   32  cd Desktop/playg
+   33  ./try.sh 2 + 3
+   34  which sh
+   35  :set fileformat=unix
+   36  ./try.sh 2 + 3
+   37  ll
+   38  ./try.sh 2 + 3
+   39  /bin/bash
+   40  ./one.sh
+   41  chmod +x one.sh
+   42  ./one.sh
+   43  ./try.sh 2 + 3
+   44  ./one.sh 2 + 3
+   45  ./one.sh 2 +
+   46  ./one.sh 2 + 3
+   47  ./one.sh 2 * 3
+   48  ./one.sh 2 - 3
+   49  ./one.sh 2 / 3
+   50  ./one.sh 6 / 3
+   51  ./one.sh 6 * 3
+   52  ./one.sh 6 + 3
+   53  ./one.sh 6 / 3
+   54  ./one.sh 6 - 3
+   55  ./one.sh 6 * 3
+   56  ./one.sh 6 \* 3
+   57  ./one.sh 6 + 3
+   58  git
+   59  sudo apt install git
+   60  git
+   61  git -version
+   62  git --version
+   63  pwd
+   64  ls
+   65  ls /
+   66  git status
+   67  touch a b
+   68  ls
+   69  git log
+   70  git add a b
+   71  git status
+   72  git rm a -f
+   73  git rm b --cached
+   74  ls
+   75  git status
+   76  touch test2
+   77  git status
+   78  echo "The file has been updated" >>test.txt
+   79  git status
+   80  git add.
+   81  git add .
+   82  git status
+   83  git commit -m "Modifies file test.txt"
+   84  git log
+   85  ls *
+   86  git clone https://github.com/julilll/GitCourse.git
+   87  git remote add origin https://github.com/julilll/GitCourse.git
+   88  git status
+   89  git add .
+   90  git pull
+   91  ls
+   92  cd GitCourse
+   93  git status
+   94  git log
+   95  git pull
+   96  git status
+   97  git add .
+   98  git status
+   99  git push origin master
+  100  git pull
+  101  rm -rf GitCourse/
+  102  cd ..
+  103  ls
+  104  rm -rf GitCourse/
+  105  ls
+  106  git clone https://github.com/julilll/GitCourse.git
+  107  git pull
+  108  ls
+  109  cd GitCourse
+  110  git pull
+  111  git log
+  112  touch history
+  113  git status
+  114  git add .
+  115  git commit -m "Added my first history"
+  116  git log
+  117  git push origin master
+  118  git status
+  119  git push
+  120  git push origin main
+  121  git remote -v
+  122  ping github.com
+  123  ssh-keygen –t rsa –b 4096
+  124  cd
+  125  ssh-keygen –t rsa –b 4096
+  126  ssh-keygen -t rsa -b 4096
+  127  ll .ssh
+  128  cd .ssh
+  129  ls
+  130  cat id_rsa.pub
+  131  cd
+  132  ls
+  133  cs Documents
+  134  cd Documents
+  135  ls
+  136  cd FirstProject
+  137  ls
+  138  cd GitCourse
+  139  ssh -T git@github.com
+  140  ls ~/.shh
+  141  ls ~/.ssh
+  142  git config remote.origin.url git@github.com:julilll/GitCourse.git
+  143  ls
+  144  history > history
